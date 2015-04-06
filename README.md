@@ -1,2 +1,2 @@
 # arduino
-some arduine scetches
+some arduino scetches
